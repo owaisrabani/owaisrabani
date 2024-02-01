@@ -1,3 +1,4 @@
+![logo](https://github.com/owaisrabani/owaisrabani/blob/main/img11.jpeg)
 <h1 align="center">Hi 👋, I'm owaisrabani</h1>
 <h3 align="center">Aspiring Data Analyst</h3>
 
